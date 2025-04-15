@@ -6,12 +6,12 @@ This privacy policy applies to the mobile application **Phillips Hue by FT**, de
 ---
 
 ## 1. Age Requirement  
-AppName is intended solely for users aged 13 and older. We do not knowingly collect data from children under the age of 13. If we discover a user is under 13, any related data will be deleted as soon as possible.
+**Phillips Hue by FT** is intended solely for users aged 13 and older. We do not knowingly collect data from children under the age of 13. If we discover a user is under 13, any related data will be deleted as soon as possible.
 
 ---
 
 ## 2. Data Collection  
-We do **not** collect any personal information through AppName.  
+We do **not** collect any personal information through **Phillips Hue by FT**.  
 The app does **not** access your location, contacts, photos, microphone, or other sensitive data.
 
 ---
@@ -22,7 +22,7 @@ Because we do not collect data, there is no use, sharing, or storage of personal
 ---
 
 ## 4. No Ads or Tracking  
-AppName:  
+**Phillips Hue by FT**:  
 - Contains **no third-party advertisements**  
 - Uses **no tracking technologies** (such as cookies, analytics, or ad identifiers)  
 - **Does not communicate with external servers** for analytics or marketing purposes  
@@ -30,7 +30,7 @@ AppName:
 ---
 
 ## 5. External Services  
-AppName does **not** use any third-party SDKs or services that collect user data.
+**Phillips Hue by FT** does **not** use any third-party SDKs or services that collect user data.
 
 ---
 
