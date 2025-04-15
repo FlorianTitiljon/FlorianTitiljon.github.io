@@ -1,7 +1,7 @@
 # Privacybeleid  
-**Laatst bijgewerkt:** [datum invullen]  
+**Laatst bijgewerkt:** 15/04/2025 
 
-Deze applicatie ("de App") is ontwikkeld door **[Naam ontwikkelaar of bedrijf]** en is bedoeld voor gebruikers van 13 jaar en ouder. Wij hechten veel waarde aan uw privacy en verwerken zo min mogelijk persoonsgegevens. In dit beleid leggen we uit welke informatie (indien van toepassing) wordt verzameld en hoe deze wordt gebruikt.
+Deze applicatie ("de App") is ontwikkeld door Florian Titiljon en is bedoeld voor gebruikers van 13 jaar en ouder. Wij hechten veel waarde aan uw privacy en verwerken zo min mogelijk persoonsgegevens. In dit beleid leggen we uit welke informatie (indien van toepassing) wordt verzameld en hoe deze wordt gebruikt.
 
 ---
 
