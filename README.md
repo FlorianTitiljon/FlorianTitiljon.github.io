@@ -1,50 +1,41 @@
-# Privacy Policy for Phillips Hue by FT  
-**Last updated:** 15/04/2025  
+# Privacy Policy
 
-This privacy policy applies to the mobile application **Phillips Hue by FT**, developed by **Florian Titiljon**, and published on the Google Play Store. The app is intended for users aged 13 and older. We respect your privacy and strive to process as little personal information as possible. Below, we explain what data (if any) is collected, how it is used, and how we keep it safe.
+## Overview
+This Privacy Policy describes how Lockr ("we", "our", or "us") collects, uses, and shares information when you use Lockr.
 
----
+## Information We Collect
 
-## 1. Age Requirement  
-**Phillips Hue by FT** is intended solely for users aged 13 and older. We do not knowingly collect data from children under the age of 13. If we discover a user is under 13, any related data will be deleted as soon as possible.
+### Information You Provide
+- Account credentials for authentication
+- Device IDs and API keys to connect with your smart locks
 
----
+### Automatically Collected Information
+- Usage data such as lock/unlock events
+- Device information (model, OS version)
+- Log data for troubleshooting
 
-## 2. Data Collection  
-We do **not** collect any personal information through **Phillips Hue by FT**.  
-The app does **not** access your location, contacts, photos, microphone, or other sensitive data.
+## How We Use Your Information
+- To provide and maintain the app's functionality
+- To connect to your smart lock devices via the Nuki API
+- To display activity logs of your smart locks
+- To improve and optimize the app experience
 
----
+## Data Sharing and Disclosure
+We do not sell your personal information. We may share data with:
+- The Nuki API to facilitate smart lock operations
+- Service providers who assist in app functionality
 
-## 3. Use of Data  
-Because we do not collect data, there is no use, sharing, or storage of personal data.
+## Data Security
+We implement appropriate security measures to protect your information. However, no internet transmission is 100% secure.
 
----
+## Your Rights
+You may request access to your data or deletion of your account at any time.
 
-## 4. No Ads or Tracking  
-**Phillips Hue by FT**:  
-- Contains **no third-party advertisements**  
-- Uses **no tracking technologies** (such as cookies, analytics, or ad identifiers)  
-- **Does not communicate with external servers** for analytics or marketing purposes  
+## Changes to This Policy
+We may update this policy periodically. Please review it regularly.
 
----
+## Contact Us
+If you have questions about this Privacy Policy, please contact us at:
+floriantitiljon2005@gmail.com
 
-## 5. External Services  
-**Phillips Hue by FT** does **not** use any third-party SDKs or services that collect user data.
-
----
-
-## 6. Security  
-Although no user data is collected, we implement appropriate technical safeguards to protect the app from abuse or misuse.
-
----
-
-## 7. Changes to This Policy  
-We may update this privacy policy from time to time. We recommend reviewing this page regularly. Any significant changes will be announced within the app.
-
----
-
-## Contact  
-If you have any questions about this policy, please contact the developer:  
-**Florian Titiljon**  
-[https://floriantitiljon.github.io/](https://floriantitiljon.github.io/)
+Last updated: 16/05/2025
